@@ -42,7 +42,7 @@ jewel_image = pygame.transform.scale(jewel_image, (50,50))
 
 while True:
     screen.fill((100,255,255))
-    # Checking if 'quit' event occurs and handle it by calling 'pygame.quit()'
+    # Check if 'quit' event occurs and handle it by calling 'pygame.quit()'
     
     
     
