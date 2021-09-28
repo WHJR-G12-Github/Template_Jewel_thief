@@ -50,15 +50,19 @@ while True:
                 # Check if left arrow key is pressed
                 
                     # Make 'thief_x_change' value to -1
+                    
                 # Check if right arrow key is pressed    
                 
                     # Make 'thief_x_change' value to 1 
+                    
                 # Check if down arrow key is pressed   
                 
                     # Make 'thief_y_change' value to 1
+                    
                 # Check if up arrow key is pressed    
                 
                     # Make 'thief_y_change' value to -1
+                    
                  
         if event.type == pygame.KEYUP:
             thief_x_change = 0
